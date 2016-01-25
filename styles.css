@@ -1,3 +1,4 @@
+
 h1 {
     background-color: green;
     text-align: center;
@@ -6,12 +7,14 @@ h1 {
     font-size: 26px;
     border: 1px solid black;
 }
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 10px solid green;
 }
+
 p {
  color: white;
  background-color: green;
@@ -19,6 +22,7 @@ p {
     border: 2px solid black;
 
 }
+
  body {
     background-image: url("15.png");
     background-repeat: repeat;
